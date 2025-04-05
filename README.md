@@ -106,16 +106,7 @@ python main.py
 
 
 ## 🧸额外说明
-1. 感谢star⭐和follow📰！不时更新
-2. 作者的联系方式在主页里，有问题可以随时联系我
-3. 可以关注下作者的其他项目，欢迎 PR 和 issue
-4. 感谢赞助！如果此项目对您有帮助，请作者喝一杯奶茶~~ （开心一整天😊😊）
-5. thank you~~~
-
-<div align="center">
-  <img src="./author/wx_pay.png" width="400px" alt="微信赞赏码"> 
-  <img src="./author/zfb_pay.jpg" width="400px" alt="支付宝收款码">
-</div>
+原作者：https://github.com/cv-cat/Spider_XHS/tree/master
 
 
 ## 📈 Star 趋势
