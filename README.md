@@ -11,9 +11,6 @@
     <a href="https://www.python.org/">
         <img src="https://img.shields.io/badge/python-3.7%2B-blue" alt="Python 3.7+">
     </a>
-    <a href="https://nodejs.org/zh-cn/">
-        <img src="https://img.shields.io/badge/nodejs-18%2B-blue" alt="NodeJS 18+">
-    </a>
 </div>
 
 
